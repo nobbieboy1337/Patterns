@@ -1,4 +1,3 @@
-Top 25 Server-Side Request Forgery (SSRF) Parameters for @trbughunters
 
 ?dest=
 ?redirect=
